@@ -11,7 +11,7 @@ int main()
 	L.AddTail(2131);
 	L.AddTail(-12);
 	L.AddTail(-19);
-
+	L.AddHead(45);
 	L.PrintList();
 	cout << "\n";
 	//L.RemoveAll ();
